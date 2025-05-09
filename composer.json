@@ -1,0 +1,21 @@
+{
+    "name": "payastra/gateways",
+    "description": "Unified multi-gateway payment integration library for PHP.",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.9",
+        "razorpay/razorpay": "^2.9"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Payastra\\Gateways\\": "src/Gateway/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Akash Nishad"
+        }
+    ],
+    "minimum-stability": "stable"
+}
