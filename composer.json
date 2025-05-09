@@ -3,7 +3,6 @@
     "description": "Unified multi-gateway payment integration library for PHP.",
     "type": "library",
     "require": {
-        "guzzlehttp/guzzle": "^7.9",
         "razorpay/razorpay": "^2.9"
     },
     "license": "MIT",
