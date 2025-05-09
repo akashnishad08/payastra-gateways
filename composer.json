@@ -17,5 +17,12 @@
             "name": "Akash Nishad"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "extra": {
+        "archive": {
+            "exclude": [
+                "examples/*"
+            ]
+        }
+    }
 }
