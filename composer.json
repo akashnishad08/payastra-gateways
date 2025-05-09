@@ -9,7 +9,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Payastra\\Gateways\\": "src/Gateway/"
+            "Payastra\\Gateways\\": "src/gateways/"
         }
     },
     "authors": [

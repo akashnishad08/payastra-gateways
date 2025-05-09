@@ -62,7 +62,7 @@ class ComposerStaticInitfbb7d9fa45cba9c9c42e9ac3a6b54970
         ),
         'Payastra\\Gateways\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src/Gateway',
+            0 => __DIR__ . '/../..' . '/src/gateways',
         ),
         'GuzzleHttp\\Psr7\\' => 
         array (

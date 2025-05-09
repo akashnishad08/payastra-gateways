@@ -3,7 +3,7 @@
         'name' => 'payastra/gateways',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'b802e8ed8bdff7ba0bbe1c3c836b32f5418fb8cd',
+        'reference' => 'e6432d9ad507fd60f15c382333c14bb4c5d3b4a9',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -40,7 +40,7 @@
         'payastra/gateways' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'b802e8ed8bdff7ba0bbe1c3c836b32f5418fb8cd',
+            'reference' => 'e6432d9ad507fd60f15c382333c14bb4c5d3b4a9',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
